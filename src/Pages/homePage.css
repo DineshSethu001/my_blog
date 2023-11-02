@@ -1,0 +1,13 @@
+*{
+    color:554399;
+}
+.name{
+    margin-left: 1rem;
+    padding: 3px;
+}
+.description{
+    margin-top: -1rem;
+}
+em{
+    color:rgb(113, 79, 34);
+}
